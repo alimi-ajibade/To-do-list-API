@@ -10,7 +10,8 @@ class UserListAdmin(admin.ModelAdmin):
         'title',
         'remainderDate',
         'remainderTime',
-        'remainder'
+        'remainder',
+        'user_id'
     ]
 
     autocomplete_fields = ['user_id']

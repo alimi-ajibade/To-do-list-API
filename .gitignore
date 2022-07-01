@@ -1,2 +1,5 @@
-/env/
 *.pyc
+/media/
+/static/
+general.log
+env

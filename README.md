@@ -2,11 +2,11 @@
   To-do-list API designed using django and Django Rest Framework.
 
   🛠️Technologies Utilized
-     * Django
-     * Django Rest Framework
-     * djangorestframework-simplejwt
-     *Djoser
-     *Mysql
+  Markup: * Django
+          * Django Rest Framework
+          * djangorestframework-simplejwt
+          * Djoser
+          * Mysql
 
   ✨Features
     * User Signup

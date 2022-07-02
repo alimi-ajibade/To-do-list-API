@@ -19,5 +19,5 @@ To-do-list API designed using django and Django Rest Framework.
   * Set Remainders
 
   📮Making requests
-  Always attach the token on the request header of secured routes.
+  * Always attach the token on the request header of secured routes.
 

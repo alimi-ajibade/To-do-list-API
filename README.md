@@ -1,5 +1,5 @@
-# To-do-list-API (Django)
-======================================
+# To-do-list-API (Django) #
+
 To-do-list API designed using django and Django Rest Framework.
 
   🛠️Technologies Utilized

@@ -1,7 +1,6 @@
-from django.db.models import Q
 from rest_framework.viewsets import ModelViewSet, GenericViewSet
-from rest_framework.generics import RetrieveUpdateDestroyAPIView, ListCreateAPIView
-from rest_framework.mixins import ListModelMixin, CreateModelMixin
+from rest_framework.generics import RetrieveUpdateDestroyAPIView
+from rest_framework.mixins import ListModelMixin
 from list.models import UserList
 from list.serializers import UserListSerializer
 from rest_framework.permissions import IsAdminUser, IsAuthenticated

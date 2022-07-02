@@ -1,5 +1,4 @@
 from datetime import date
-from math import remainder
 from django.db import models
 from django.contrib.auth.models import User
 from django.core.validators import MinValueValidator
